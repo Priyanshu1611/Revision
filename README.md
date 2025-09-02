@@ -20,8 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshu1611/Revision/tree/master/0011-container-with-most-water) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshu1611/Revision/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
