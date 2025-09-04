@@ -1,49 +1,21 @@
-import java.util.Arrays;
-
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        int[] row = new int[10];
+        boolean[][] rows = new boolean[9][10];
+        boolean[][] cols = new boolean[9][10];
+        boolean[][] boxes = new boolean[9][10];
 
-        // rows
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
                 char c = board[i][j];
                 if (c == '.') continue;
                 int num = c - '0';
-                if (row[num] > 0) return false; // was > 1
-                row[num]++;
-            }
-            Arrays.fill(row, 0);
-        }
+                int box = (i / 3) * 3 + (j / 3);
 
-        // columns
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
-                char c = board[j][i];
-                if (c == '.') continue;
-                int num = c - '0';
-                if (row[num] > 0) return false; // was > 1
-                row[num]++;
-            }
-            Arrays.fill(row, 0);
-        }
+                if (rows[i][num] || cols[j][num] || boxes[box][num]) return false;
 
-        // 3x3 boxes
-        for (int l = 0; l < 9; l += 3) {        // box row start: 0,3,6
-            for (int r = 0; r < 9; r += 3) {    // box col start: 0,3,6
-                for (int i = l; i < l + 3; i++) {
-                    for (int j = r; j < r + 3; j++) {
-                        char c = board[i][j];
-                        if (c == '.') continue;
-                        int num = c - '0';
-                        if (row[num] > 0) return false; // was > 1
-                        row[num]++;
-                    }
-                }
-                Arrays.fill(row, 0);
+                rows[i][num] = cols[j][num] = boxes[box][num] = true;
             }
         }
-
         return true;
     }
 }
