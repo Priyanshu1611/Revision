@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshu1611/Revision/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Priyanshu1611/Revision/tree/master/0036-valid-sudoku) |
 | [0057-insert-interval](https://github.com/Priyanshu1611/Revision/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Priyanshu1611/Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu1611/Revision/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Priyanshu1611/Revision/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Priyanshu1611/Revision/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Priyanshu1611/Revision/tree/master/0146-lru-cache) |
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Priyanshu1611/Revision/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
