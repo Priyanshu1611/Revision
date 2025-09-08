@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Priyanshu1611/Revision/tree/master/0036-valid-sudoku) |
 | [0057-insert-interval](https://github.com/Priyanshu1611/Revision/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu1611/Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Priyanshu1611/Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyanshu1611/Revision/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Priyanshu1611/Revision/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu1611/Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Priyanshu1611/Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyanshu1611/Revision/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Priyanshu1611/Revision/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
