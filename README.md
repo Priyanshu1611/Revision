@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu1611/Revision/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Priyanshu1611/Revision/tree/master/0076-minimum-window-substring) |
 | [1006-vowel-spellchecker](https://github.com/Priyanshu1611/Revision/tree/master/1006-vowel-spellchecker) |
+| [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu1611/Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu1611/Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Priyanshu1611/Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu1611/Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Priyanshu1611/Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyanshu1611/Revision/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Priyanshu1611/Revision/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Priyanshu1611/Revision/tree/master/0146-lru-cache) |
 | [1006-vowel-spellchecker](https://github.com/Priyanshu1611/Revision/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Priyanshu1611/Revision/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu1611/Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Priyanshu1611/Revision/tree/master/0146-lru-cache) |
+| [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -118,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu1611/Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
