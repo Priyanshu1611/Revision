@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyanshu1611/Revision/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Priyanshu1611/Revision/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/Priyanshu1611/Revision/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Priyanshu1611/Revision/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Priyanshu1611/Revision/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu1611/Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Priyanshu1611/Revision/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Priyanshu1611/Revision/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -146,8 +149,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Priyanshu1611/Revision/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Priyanshu1611/Revision/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
