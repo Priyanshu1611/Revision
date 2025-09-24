@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Priyanshu1611/Revision/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Priyanshu1611/Revision/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/Priyanshu1611/Revision/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Priyanshu1611/Revision/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/Priyanshu1611/Revision/tree/master/1006-vowel-spellchecker) |
 | [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Priyanshu1611/Revision/tree/master/3797-design-spreadsheet) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyanshu1611/Revision/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Priyanshu1611/Revision/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshu1611/Revision/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Priyanshu1611/Revision/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/Priyanshu1611/Revision/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Priyanshu1611/Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Priyanshu1611/Revision/tree/master/2023-design-movie-rental-system) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Priyanshu1611/Revision/tree/master/0166-fraction-to-recurring-decimal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu1611/Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu1611/Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Priyanshu1611/Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
