@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Priyanshu1611/Revision/tree/master/0166-fraction-to-recurring-decimal) |
 | [1018-largest-perimeter-triangle](https://github.com/Priyanshu1611/Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu1611/Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1642-water-bottles](https://github.com/Priyanshu1611/Revision/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu1611/Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Priyanshu1611/Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Priyanshu1611/Revision/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Priyanshu1611/Revision/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
