@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Priyanshu1611/Revision/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Priyanshu1611/Revision/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyanshu1611/Revision/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Priyanshu1611/Revision/tree/master/0794-swim-in-rising-water) |
 | [1006-vowel-spellchecker](https://github.com/Priyanshu1611/Revision/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Priyanshu1611/Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Priyanshu1611/Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu1611/Revision/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Priyanshu1611/Revision/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyanshu1611/Revision/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Priyanshu1611/Revision/tree/master/0794-swim-in-rising-water) |
 | [3797-design-spreadsheet](https://github.com/Priyanshu1611/Revision/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Priyanshu1611/Revision/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Priyanshu1611/Revision/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/Priyanshu1611/Revision/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Priyanshu1611/Revision/tree/master/3678-design-task-manager) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Priyanshu1611/Revision/tree/master/0794-swim-in-rising-water) |
 | [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -209,8 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Priyanshu1611/Revision/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyanshu1611/Revision/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Priyanshu1611/Revision/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyanshu1611/Revision/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Priyanshu1611/Revision/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Priyanshu1611/Revision/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
