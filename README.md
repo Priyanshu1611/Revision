@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Priyanshu1611/Revision/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/Priyanshu1611/Revision/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Priyanshu1611/Revision/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu1611/Revision/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Priyanshu1611/Revision/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Priyanshu1611/Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Priyanshu1611/Revision/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Priyanshu1611/Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Priyanshu1611/Revision/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu1611/Revision/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Priyanshu1611/Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Priyanshu1611/Revision/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu1611/Revision/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Priyanshu1611/Revision/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu1611/Revision/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/Priyanshu1611/Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Priyanshu1611/Revision/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Priyanshu1611/Revision/tree/master/3827-implement-router) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Priyanshu1611/Revision/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanshu1611/Revision/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
